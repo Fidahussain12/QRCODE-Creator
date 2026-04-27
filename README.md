@@ -17,7 +17,7 @@ any URL or text into a scannable QR Code image.
 ## 🚀 How to Run
 
 # Clone the repo
-git clone https://github.com/your-username/qr-code-generator
+git clone https://github.com/Fidahussain12/qr-code-generator
 
 # Create virtual environment
 python -m venv venv
